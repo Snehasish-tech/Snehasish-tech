@@ -126,9 +126,10 @@ const developer = {
 
 # 📊 𝗚𝗶𝘁𝗛𝘂𝗯 𝗔𝗰𝘁𝗶𝘃𝗶𝘁𝘆 :
 <div align="center">
-  <a href="https://github.com/Snehasish-tech">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Snehasish-tech&bg_color=2d2a2e&color=ffffff&line=f92672&point=fd971f&area=true&hide_border=false" alt="GitHub Activity">
-  </a>
+<!-- Animated Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Snehasish-tech&bg_color=0d1117&color=58a6ff&line=f92672&point=58a6ff&area=true&hide_border=true" alt="GitHub Activity Graph" />
+<!-- Profile Summary Cards -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Snehasish-tech&theme=radical" />
 </div>
 
 ## 🌐 Let's Connect
@@ -146,6 +147,27 @@ const developer = {
 </a>
 
 <br>
+<!-- Animated Coding GIF -->
+<div align="center">
+  <img 
+    src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" 
+    width="400" 
+    alt="Coding Animation"
+  />
+</div>
+
+<br>
+<br>
+
+<!-- Final Neon Text -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&lines=Thanks+for+visiting!+%F0%9F%98%84;Happy+Coding!+%F0%9F%92%BB;Let's+build+something+amazing!+%F0%9F%9A%80" 
+      alt="Footer Animation"
+    />
+  </a>
+</div>
 
 
 
