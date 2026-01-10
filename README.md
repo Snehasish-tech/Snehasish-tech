@@ -147,6 +147,9 @@ const developer = {
 </a>
 
 <br>
+
+<br>
+
 <!-- Animated Coding GIF -->
 <div align="center">
   <img 
