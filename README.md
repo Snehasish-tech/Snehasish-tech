@@ -169,7 +169,7 @@ const developer = {
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&lines=Thanks+for+visiting!+%F0%9F%98%84;Happy+Coding!+%F0%9F%92%BB;Let's+build+something+amazing!+%F0%9F%9A%80" 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&lines=Thanks+for+visiting!+%F0%9F%98%84" 
       alt="Footer Animation"
     />
   </a>
