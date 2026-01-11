@@ -128,8 +128,7 @@ const developer = {
 <div align="center">
 <!-- Animated Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Snehasish-tech&bg_color=0d1117&color=58a6ff&line=f92672&point=58a6ff&area=true&hide_border=true" alt="GitHub Activity Graph" />
-<!-- Profile Summary Cards -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Snehasish-tech&theme=radical" />
+
 </div>
 
 ## 🌐 Let's Connect
