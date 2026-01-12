@@ -117,7 +117,7 @@ const developer = {
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Snehasish-tech&theme=monokai" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Snehasish-tech&theme=monokai" />
+ 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Snehasish-tech&theme=monokai" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Snehasish-tech&theme=monokai" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Snehasish-tech&theme=monokai" />
