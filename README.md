@@ -120,8 +120,7 @@ const developer = {
  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Snehasish-tech&theme=monokai" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Snehasish-tech&theme=monokai" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Snehasish-tech&theme=monokai" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Snehasish-tech&theme=monokai&utcOffset=8" />
+ 
 </p>
 
 # 📊 𝗚𝗶𝘁𝗛𝘂𝗯 𝗔𝗰𝘁𝗶𝘃𝗶𝘁𝘆 :
