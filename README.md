@@ -7,8 +7,9 @@
 
 </div>
 
+
 <div align="center">
-  <img height="240" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"  />
+  <img height="300" src="https://github.com/user-attachments/assets/7f1f0e2f-7e4e-4546-a501-cb754213f6a8"/>
 </div>
 
 #
@@ -92,14 +93,8 @@ const developer = {
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
 <br>VS Code
 </td>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="GitHub" />
-<br>GitHub
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-<br>Node.js
-</td>
+
+
 </tr>
 </table>
 
