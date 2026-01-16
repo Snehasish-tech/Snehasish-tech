@@ -1,7 +1,8 @@
 
 <div align="center">
   
-<img width="2500" height="875" alt="github-header-banner-2" src="https://github.com/user-attachments/assets/9d0cfafb-fb04-4386-b44b-85618bed6007" />
+
+<img width="2125" height="575" alt="github-header-banner (3)" src="https://github.com/user-attachments/assets/8db05f6c-dc84-45f2-a149-ea15dc0476ff" />
 
 
 </div>
