@@ -20,6 +20,16 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Web+Developer;Backend+Explorer" alt="Typing SVG" />
 </h1>
+<p align="center">
+  <a href="https://www.linkedin.com/in/snehasish-dey-821b7732a">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto: snehasishdey02@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Snehasish-tech&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+</p>
+
 
 
 <img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
@@ -48,8 +58,9 @@ const developer = {
 <div align="center">
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35">  𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
+### 🚀 Languages
 
-<table align="center">
+<table>
 <tr>
 <td align="center" width="96">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C" />
@@ -64,23 +75,65 @@ const developer = {
 <br>Java
 </td>
 <td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+<br>JavaScript
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+<br>TypeScript
+</td>
+</tr>
+</table>
+
+### 🎨 Frontend Development
+
+<table>
+<tr>
+<td align="center" width="96">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
 <br>HTML5
 </td>
 <td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original. svg" width="48" height="48" alt="CSS3" />
 <br>CSS3
 </td>
 <td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-<br>JavaScript
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
+<br>React
 </td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="Tailwind" />
+<br>Tailwind
+</td>
+
 </tr>
+</table>
+
+### ⚙️ Backend Development
+
+<table>
 <tr>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original. svg" width="48" height="48" alt="Node.js" />
+<br>Node.js
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express" />
+<br>Express
+</td>
+
 <td align="center" width="96">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
 <br>MySQL
 </td>
+
+</tr>
+</table>
+
+### 🛠️ Tools & Technologies
+
+<table>
+<tr>
 <td align="center" width="96">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
 <br>Git
@@ -98,6 +151,8 @@ const developer = {
 </tr>
 </table>
 
+
+
 </div>
 
 <br>
@@ -113,9 +168,11 @@ const developer = {
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Snehasish-tech&theme=monokai" />
+  <img width="49%"  src="https://github-readme-streak-stats.herokuapp.com/?user=Snehasish-tech&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Snehasish-tech&theme=monokai" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Snehasish-tech&theme=monokai" />
+  
  
 </p>
 
@@ -126,21 +183,19 @@ const developer = {
 
 </div>
 
-## 🌐 Let's Connect
 
-<div align="center">
 
-<a href="www.linkedin.com/in/snehasish-dey-821b7732a">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square" height="50" alt="LinkedIn" />
+### 💖 Support My Work
+
+<a href="https://www.buymeacoffee.com/Snehasish-tech">
+  <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
 </a>
 
+</div>
 
 
-<a href="mailto:snehasishdey02@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=flat-square" height="50" alt="Email" />
-</a>
 
-<br>
+
 
 <br>
 
