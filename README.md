@@ -1,6 +1,5 @@
-
 <div align="center">
-  
+
 
 <img width="2125" height="575" alt="github-header-banner (3)" src="https://github.com/user-attachments/assets/8db05f6c-dc84-45f2-a149-ea15dc0476ff" />
 
@@ -29,7 +28,6 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=Snehasish-tech&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 </p>
-
 
 
 <img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
@@ -102,7 +100,8 @@ const developer = {
 <br>React
 </td>
 <td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="Tailwind" />
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="Tailwind" />
 <br>Tailwind
 </td>
 
@@ -152,11 +151,9 @@ const developer = {
 </table>
 
 
-
 </div>
 
 <br>
-
 
 
 # 🏆 𝗚𝗶𝘁𝗛𝘂𝗯 𝗧𝗿𝗼𝗽𝗵𝗶𝗲𝘀 :
@@ -169,14 +166,13 @@ const developer = {
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Snehasish-tech&theme=monokai" />
   <img width="49%"  src="https://github-readme-streak-stats.herokuapp.com/?user=Snehasish-tech&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Snehasish-tech&theme=monokai" />
   
  
 </p>
 
-# 📊 𝗚𝗶𝘁𝗛𝘂𝗯 𝗔𝗰𝘁𝗶𝘃𝗶𝘁𝘆 :
+# 📊 𝗚𝗶𝘁𝗛𝘂𝗯 𝗔𝗰𝘁𝗶𝘃𝗶𝘁𝗶𝗲𝘀 :
 <div align="center">
 <!-- Animated Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Snehasish-tech&bg_color=0d1117&color=58a6ff&line=f92672&point=58a6ff&area=true&hide_border=true" alt="GitHub Activity Graph" />
@@ -187,13 +183,8 @@ const developer = {
 
 
 
-</div>
-
-
-
-
-
 <br>
+
 
 <!-- Animated Coding GIF -->
 <div align="center">
@@ -214,7 +205,7 @@ const developer = {
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&lines=Thanks+for+visiting!+%F0%9F%98%84" 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&lines=Thanks+for+visiting!;Happy+Coding!+%F0%9F%9A%80"
       alt="Footer Animation"
     />
   </a>
@@ -224,5 +215,3 @@ const developer = {
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1100" align="right">
-
-
