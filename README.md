@@ -94,7 +94,7 @@ const developer = {
 <br>HTML5
 </td>
 <td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original. svg" width="48" height="48" alt="CSS3" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
 <br>CSS3
 </td>
 <td align="center" width="96">
@@ -114,7 +114,7 @@ const developer = {
 <table>
 <tr>
 <td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original. svg" width="48" height="48" alt="Node.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
 <br>Node.js
 </td>
 <td align="center" width="96">
@@ -185,11 +185,7 @@ const developer = {
 
 
 
-### 💖 Support My Work
 
-<a href="https://www.buymeacoffee.com/Snehasish-tech">
-  <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
-</a>
 
 </div>
 
