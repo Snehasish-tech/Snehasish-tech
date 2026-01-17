@@ -165,7 +165,7 @@ const developer = {
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Snehasish-tech&theme=monokai" />
-  <img width="49%"  src="https://github-readme-streak-stats.herokuapp.com/?user=Snehasish-tech&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=Snehasish-tech&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Snehasish-tech&theme=monokai" />
   
@@ -194,11 +194,9 @@ const developer = {
     alt="Coding Animation"
   />
 </div>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Snehasish-tech&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
 
-<br>
+
+
 <br>
 
 <!-- Final Neon Text -->
