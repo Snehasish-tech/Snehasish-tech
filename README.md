@@ -165,7 +165,7 @@ const developer = {
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Snehasish-tech&theme=monokai" />
-  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=Snehasish-tech&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  
  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Snehasish-tech&theme=monokai" />
   
