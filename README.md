@@ -163,8 +163,13 @@ const developer = {
 
 # 📈 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀 :
 
-<p align="center">
+
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Snehasish-tech&theme=monokai" />
+
+![](https://github-readme-stats.vercel.app/api?username=Snehasish-tech&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=Snehasish-tech&theme=dark&hide_border=false)<br/>
+
+
   
  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Snehasish-tech&theme=monokai" />
