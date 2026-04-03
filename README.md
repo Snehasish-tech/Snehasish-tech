@@ -166,28 +166,24 @@ const developer = {
 </div>
 
 # 📈 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀 :
-
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Snehasish-tech&theme=monokai" />
-
-![](https://github-readme-stats.vercel.app/api?username=Snehasish-tech&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=Snehasish-tech&theme=dark&hide_border=false)<br/>
-
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Snehasish-tech&theme=tokyonight" />
   
- 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Snehasish-tech&theme=monokai" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Snehasish-tech&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Snehasish-tech&theme=tokyonight" />
   
- 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Snehasish-tech&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Snehasish-tech&theme=tokyonight&utcOffset=5.5" />
 </p>
 
+
+ 
+
+
 # 📊 𝗚𝗶𝘁𝗛𝘂𝗯 𝗔𝗰𝘁𝗶𝘃𝗶𝘁𝗶𝗲𝘀 :
-<div align="center">
-<!-- Animated Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Snehasish-tech&bg_color=0d1117&color=58a6ff&line=f92672&point=58a6ff&area=true&hide_border=true" alt="GitHub Activity Graph" />
-
-</div>
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Snehasish-tech&theme=react-dark&hide_border=true" />
+</p>
 
 
 
