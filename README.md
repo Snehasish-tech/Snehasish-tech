@@ -209,6 +209,7 @@ const developer = {
   <a href="https://git.io/typing-svg">
     <img 
       src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&lines=Thanks+for+visiting!;Happy+Coding!+%F0%9F%9A%80"
+      
       alt="Footer Animation"
     />
   </a>
@@ -217,4 +218,4 @@ const developer = {
 
 
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1100" align="right">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1000" align="right">
