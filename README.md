@@ -185,10 +185,72 @@ const developer = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Snehasish-tech&theme=react-dark&hide_border=true" />
 </p>
 
+<br>
 
 
+
+# 🌐 `[NETWORK] ESTABLISH CONNECTION`
+
+<div align="center">
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmw3YnhhbTh0Ym9pZWk5NXNuenFkY3B6OWd4ZGRxdHh1MXZkdGNuaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WvTKJoo9Dudou54YY6/giphy.gif" width="200">
+
+### `🔗 SECURE COMMUNICATION CHANNELS`
+
+<table>
+<tr>
+<td align="center" width="20%">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Snehasish-tech-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Snehasish-tech)
+<br>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3ltcnd1N2J4cHZobGZwcXphZDd5OTQ0b2c1bzFkY3g2djd5cmsydyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="100">
+<br>
+
+**Source Code**
+
+</td>
+<td align="center" width="20%">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Snehasish%20Dey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/snehasish-dey-821b7732a)
+<br>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2gwc2pndG9vbW16bTVzc25kamN2M3Jrbm42OHBpaHFmZmRsaWhrNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/khr2lS27v92PQPD3oa/giphy.gif" width="100">
+<br>
+**Professional**
+
+</td>
+<td align="center" width="20%">
+
+[![Email](https://img.shields.io/badge/Email-snehasishdey02-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:snehasishdey02@gmail.com)
+<br>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW1lYzR3a2RpYmd0MDkweDRybWlzcXE2eHF3bGQyZWp0MXhicjRzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aOften89vRbG/giphy.gif" width="100">
+<br>
+**Direct Mail**
+
+</td>
+<td align="center" width="20%">
+
+[![X](https://img.shields.io/badge/X-@SnehasishD87713-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SnehasishD87713)
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100">
+<br>
+
+**Social Feed**
+
+</td>
+<td align="center" width="20%">
+
+[![Instagram](https://img.shields.io/badge/Instagram-snehasishdey02-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/snehasishdey02/)
+<br>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3VkYmFvN2RsZ2JhbjZ2cWJoM3RueGpwdXVqM2p0M2JqZGp2eXQwYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7bu7wtT19WfBAt0Y/giphy.gif" width="100">
+<br>
+**Visual Feed**
+
+</td>
+</tr>
+</table>
 
 <br>
+
 
 
 <!-- Animated Coding GIF -->
