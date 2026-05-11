@@ -262,6 +262,12 @@ const developer = {
 ![Metrics](https://img.shields.io/badge/⭐_Open_Source-Active-A78BFA?style=for-the-badge&labelColor=0D1117)
 
 </div>
+ <br/>
+  <br/>
+  <!-- ANIMATED GRADIENT DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
+</div>
+  
 
 # 📈 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀 :
 <p align="center">
@@ -348,9 +354,6 @@ const developer = {
 
 # 🚀 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝗱 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀 :
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2500&pause=800&color=60DAFB&center=true&vCenter=true&width=600&lines=🔨+Crafted+with+passion+%26+precision;🧠+Powered+by+AI+%26+innovative+thinking;🌍+Built+to+create+real+world+impact" />
 
 <table>
 <tr>
