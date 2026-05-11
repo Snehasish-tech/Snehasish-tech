@@ -63,14 +63,13 @@ const developer = {
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9b26-4450-a02f-0c0e646a946e.gif" width="100%">
-
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1250" height="65" align="middle">
 
 <div align="center">
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35">  𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
 
-<!-- ANIMATED GRADIENT LINE -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,4,7,11&height=2&section=header" width="100%"/>
+
 
 ### 🚀 Languages
 
@@ -233,9 +232,8 @@ const developer = {
 
 
 </div>
-<!-- ANIMATED GRADIENT DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
-<br>
+<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1250" height="65" align="middle">
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9b26-4450-a02f-0c0e646a946e.gif" width="100%">
 
@@ -337,9 +335,7 @@ const developer = {
 
 <br>
 
-<!-- ANIMATED GRADIENT DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
-
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1250" height="65" align="middle">
 ---
 
 # 🚀 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝗱 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀 :
