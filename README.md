@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="2125" height="575" alt="github-header-banner (3)" src="https://github.com/user-attachments/assets/8db05f6c-dc84-45f2-a149-ea15dc0476ff" />
+<img width="2125" height="580" alt="github-header-banner (3)" src="https://github.com/user-attachments/assets/8db05f6c-dc84-45f2-a149-ea15dc0476ff" />
 <!-- ANIMATED GRADIENT DIVIDER -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 </div>
@@ -25,12 +25,21 @@
 <br/>
 <br/>
 
-<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲
 
+<div align="center">
+
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExems2N2hmNm40czR0dnU5YXg3OWpnaWwydGhrd2xkcHRydms5dGhiYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/opXjgVMWJplJ8BdjIy/giphy.gif" width="400">
+
+
+<br/>
+<br/>
 I'm a **Full-Stack Engineer** who thrives on turning complex problems into elegant, scalable solutions. Currently pursuing my B.Tech in Information Technology, I architect end-to-end platforms — from pixel-perfect frontends to secure, edge-deployed backends. I'm passionate about integrating **AI-driven insights** into real-world products and sharing knowledge through technical writing to grow the developer community.
+<br/>
+<br/>
 
 ```typescript
 const developer = {
