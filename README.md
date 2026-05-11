@@ -259,7 +259,7 @@ const developer = {
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Snehasish-tech&theme=tokyonight" />
 
  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Snehasish-tech&theme=tokyonight&hide_border=false" width="50%"  height="458" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Snehasish-tech&theme=tokyonight&hide_border=false" width="50%"  height="558" />
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Snehasish-tech&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Snehasish-tech&theme=tokyonight" />
