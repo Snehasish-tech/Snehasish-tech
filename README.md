@@ -51,7 +51,6 @@ const developer = {
     coreFocus   : [
         "System Architecture",
         "SaaS Platforms",
-        "Edge Computing",
         "DevOps & CI/CD"
     ],
     currentProject : "KrishiGrow AI — AgriTech Platform 🌾",
