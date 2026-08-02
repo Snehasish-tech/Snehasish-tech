@@ -53,7 +53,7 @@ const developer = {
         "SaaS Platforms",
         "DevOps & CI/CD"
     ],
-    currentProject : "KrishiGrow AI — AgriTech Platform 🌾",
+  
     techArsenal    : [
         "React", "Next.js", "TypeScript",
         "Supabase", "Java", "Python"
@@ -61,10 +61,10 @@ const developer = {
     milestones  : [
         "🏆 Top 4 Hackathon Finalist",
         "✍️  Technical Writer @ GeeksforGeeks",
-        "🚀 Deployed scalable apps on Vercel & AWS"
+        "🚀 Deployed scalable apps on Vercel "
     ],
     philosophy  : "Architect clean code. Deploy fast. Scale seamlessly.",
-    funFact     : "I debug faster with lo-fi music 🎵"
+   
 };
 ```
 
