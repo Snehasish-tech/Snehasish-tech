@@ -18,7 +18,7 @@
 </div>
 <div align="center">
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full-Stack+Software+Engineer+%F0%9F%9A%80;System+Architecture+Enthusiast+%F0%9F%8F%97%EF%B8%8F;Building+Scalable+SaaS+Platforms+%F0%9F%8C%90;AgriTech+Innovator+%F0%9F%8C%BE;AI+Integration+Specialist+%F0%9F%A4%96;Technical+Writer+%40+GeeksforGeeks+%E2%9C%8D%EF%B8%8F;Hackathon+Top+4+Finalist+%F0%9F%8F%86" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full-Stack+Software+Engineer+%F0%9F%9A%80;System+Architecture+Enthusiast+%F0%9F%8F%97%EF%B8%8F;Building+Scalable+SaaS+Platforms+%F0%9F%8C%90;AI+Integration+Specialist+%F0%9F%A4%96;Technical+Writer+%40+GeeksforGeeks+%E2%9C%8D%EF%B8%8F;Hackathon+Top+4+Finalist+%F0%9F%8F%86" alt="Typing SVG" />
 </h1>
   
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1250" height="65" align="middle">
