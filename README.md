@@ -3,6 +3,7 @@
 <img width="2126" height="580" alt="github-header-banner (3)" src="https://github.com/user-attachments/assets/8db05f6c-dc84-45f2-a149-ea15dc0476ff" />
 <!-- ANIMATED GRADIENT DIVIDER -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
+
 </div>
 
 <!-- ✨ ANIMATED GLASS BADGE ROW -->
