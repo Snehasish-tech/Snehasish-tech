@@ -279,7 +279,7 @@ const developer = {
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Snehasish-tech&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Snehasish-tech&theme=tokyonight&utcOffset=5.5" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Snehasish-tech&theme=tokyonight&hide_border=false" width="50%"  height="558" />
+ 
 
 </p>
 
