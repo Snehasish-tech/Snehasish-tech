@@ -283,11 +283,6 @@ const developer = {
 
 </p>
 
-# 📊 𝗚𝗶𝘁𝗛𝘂𝗯 𝗔𝗰𝘁𝗶𝘃𝗶𝘁𝗶𝗲𝘀 :
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Snehasish-tech&theme=react-dark&hide_border=true&area=true&area_color=7C3AED&line=A78BFA&point=60DAFB" />
-</p>
-
 
 <!-- ANIMATED GRADIENT DIVIDER -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
