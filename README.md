@@ -357,10 +357,11 @@ const developer = {
 <!-- Animated Coding GIF -->
 <div align="center">
   <img 
-   src="https://github.com/user-attachments/assets/477da1ed-fbd9-4892-8353-a3026e89eddc"
+   src="https://github.com/user-attachments/assets/04acbde6-88b4-4fd5-91b8-839b8ab3d2d1"
     width="400" 
     alt="Coding Animation"
   />
+
 </div>
 
 <br>
