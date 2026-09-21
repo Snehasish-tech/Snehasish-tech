@@ -1,3 +1,5 @@
+
+
 <div align="center">
 
 <img width="2126" height="580" alt="github-header-banner (3)" src="https://github.com/user-attachments/assets/8db05f6c-dc84-45f2-a149-ea15dc0476ff" />
@@ -350,11 +352,12 @@ const developer = {
 
 
 </div>
+<br>
 
 <!-- Animated Coding GIF -->
 <div align="center">
   <img 
-    src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" 
+   src="https://github.com/user-attachments/assets/477da1ed-fbd9-4892-8353-a3026e89eddc"
     width="400" 
     alt="Coding Animation"
   />
