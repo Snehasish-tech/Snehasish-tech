@@ -62,9 +62,8 @@ const developer = {
         "Supabase", "Java", "Python"
     ],
     milestones  : [
-        "🏆 Top 4 Hackathon Finalist",
+        "🏆 Top 5 Hackathon Finalist",
         "✍️  Technical Writer @ GeeksforGeeks",
-        "🚀 Deployed scalable apps on Vercel "
     ],
     philosophy  : "Architect clean code. Deploy fast. Scale seamlessly.",
    
@@ -148,10 +147,7 @@ const developer = {
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
 <br>Node.js
 </td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express" />
-<br>Express
-</td>
+
 <td align="center" width="96">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastAPI" />
 <br>FastAPI
