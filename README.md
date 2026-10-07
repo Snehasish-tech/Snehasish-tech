@@ -189,25 +189,6 @@ const developer = {
 </tr>
 </table>
 
-### ☁️ Cloud & DevOps
-
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48" height="48" alt="Firebase" />
-<br>Firebase
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
-<br>Docker
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
-<br>Linux
-</td>
-</tr>
-</table>
-
 ### 🛠️ Tools & Technologies
 
 <table>
@@ -230,6 +211,27 @@ const developer = {
 </td>
 </tr>
 </table>
+
+### ☁️ Cloud & DevOps
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48" height="48" alt="Firebase" />
+<br>Firebase
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
+<br>Docker
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
+<br>Linux
+</td>
+</tr>
+</table>
+
+
 
 </div>
 
